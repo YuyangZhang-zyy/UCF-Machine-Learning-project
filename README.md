@@ -1,2 +1,2 @@
 # UCF-Machine-Learning-project
-Created by Google Colab in Python. Each project is in assignment form that has guidance.
+Course projects that created by Google Colab in Python. Each project is in assignment form that has guidance.
